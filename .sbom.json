@@ -1,0 +1,42 @@
+{
+  "gitlinks": {},
+  "vendored": [],
+  "models": [],
+  "external_libraries": [
+    {
+      "name": "Conditional source requirements declared by Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by docs/Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "docs/Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by setup.py",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "setup.py"
+      ]
+    },
+    {
+      "name": "setup.py install_requires=[]",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "dev_requirements.txt and docs requirements are build/test-only",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    }
+  ]
+}

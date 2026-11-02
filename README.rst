@@ -43,3 +43,10 @@ Contribution
 .. |docs| image:: https://readthedocs.org/projects/aprs-python/badge/?version=latest
     :target: http://aprs-python.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation status
+
+Source SBOM
+-----------
+
+See `repository source SBOM report <SBOM.md>`_. Release reports are generated automatically.
+
+The `source SBOM policy <SBOM-POLICY.md>`_ describes automatic release artifacts.
