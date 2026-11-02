@@ -13,7 +13,7 @@
           "content": "8b0c97621a2b8f14ef50fc50c6bcf912d0ab585258bcadf5573e986a838e6205"
         }
       ],
-      "name": "/Users/gerolfziegenhain/src/wave-owl/local/sbom-upstream-results/aprs-python/.source-input/.github/workflows/testing.yml",
+      "name": ".github/workflows/testing.yml",
       "type": "file"
     },
     {

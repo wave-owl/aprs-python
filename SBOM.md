@@ -34,7 +34,7 @@ None.
 | dev_requirements.txt and docs requirements are build/test-only | unresolved | conditional-build-runtime-requirement | unresolved |
 | actions/checkout | v2 | Syft source/package discovery | unresolved |
 | actions/setup-python | v2 | Syft source/package discovery | unresolved |
-| /Users/gerolfziegenhain/src/wave-owl/local/sbom-upstream-results/aprs-python/.source-input/.github/workflows/testing.yml | unresolved | Syft source/package discovery | unresolved |
+| .github/workflows/testing.yml | unresolved | Syft source/package discovery | unresolved |
 
 License evidence paths/hashes, source manifests, model hashes and conditional
 CMake declarations are recorded in SBOM.cdx.json. Declared upstream pins do not
